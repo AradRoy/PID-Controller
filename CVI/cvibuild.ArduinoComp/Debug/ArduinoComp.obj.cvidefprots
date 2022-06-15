@@ -1,0 +1,50 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:16:5"
+
+[PanelFunc]
+Class="Function"
+Prototype="int PanelFunc(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:29:17"
+
+[SerialFunc]
+Class="Function"
+Prototype="void SerialFunc(int portNumber, int eventMask, void *callbackData);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:46:18"
+
+[Connect]
+Class="Function"
+Prototype="int Connect(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:150:17"
+
+[sendInfo]
+Class="Function"
+Prototype="int sendInfo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:170:17"
+
+[clearGraph]
+Class="Function"
+Prototype="int clearGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:194:17"
+
+[zoomInCursor]
+Class="Function"
+Prototype="int zoomInCursor(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:212:17"
+
+[restoreGraph]
+Class="Function"
+Prototype="int restoreGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:226:17"
+
+[exportToPng]
+Class="Function"
+Prototype="int exportToPng(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:240:17"
+
+[runCalibrationTest]
+Class="Function"
+Prototype="int runCalibrationTest(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Roy\Documents\Embedded_systems\Project\CVI\ArduinoComp.c:259:17"
+
